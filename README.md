@@ -12,3 +12,5 @@ This is the repository of our solution to the Reply challange at HackaTUM.
   year={2024},
   publisher={Radiological Society of North America}
 }
+
+-> **CT performed for various clinical indications** 

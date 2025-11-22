@@ -14,3 +14,8 @@ This is the repository of our solution to the Reply challange at HackaTUM.
 }
 
 -> **CT performed for various clinical indications** 
+
+
+https://doi.org/10.1148/radiol.250917
+
+-> **AI-Based Analysis of CT Scans Taken for Many Reasons May Also Reveal Weakened Bones**
